@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//introduce/","dgPassFrontmatter":true,"created":"2024-01-27T01:30:27.922+08:00","updated":"2024-01-27T01:35:53.950+08:00"}
+{"dg-publish":true,"dg-permalink":"\"机器学习\"","permalink":"/\"机器学习\"/","dgPassFrontmatter":true,"created":"2024-01-27T01:30:27.922+08:00","updated":"2024-01-27T02:26:17.927+08:00"}
 ---
 
 这里是关于**机器学习**的一些相关技术文档，系统的介绍机器学习的发展历史及一些相关应用
