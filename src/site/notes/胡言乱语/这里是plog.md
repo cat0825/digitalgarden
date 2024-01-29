@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"胡言乱语/plog\"","permalink":"/\"胡言乱语/plog\"/","dgPassFrontmatter":true,"created":"2024-01-29T00:11:17.927+08:00","updated":"2024-01-29T14:15:56.457+08:00"}
+{"dg-publish":true,"dg-permalink":"\"胡言乱语/plog\"","permalink":"/\"胡言乱语/plog\"/","dgPassFrontmatter":true,"created":"2024-01-29T00:11:17.927+08:00","updated":"2024-01-29T14:21:44.528+08:00"}
 ---
 
 ![胡言乱语/pictures/41fa538e0b9b3a5728c1a28919c01b1.jpg|300](/img/user/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/pictures/41fa538e0b9b3a5728c1a28919c01b1.jpg)
@@ -58,4 +58,5 @@
 移动端不受影响🥰
 
 
-![300](/img/user/胡言乱语/pictures/demo.jpg)
+![200*200](/img/user/胡言乱语/pictures/demo.jpg)
+<div style="font-size:15px; text-align:center;">居中成功了喵😍</div>
